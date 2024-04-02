@@ -14,7 +14,7 @@ header {
 }
 
 #head {
- background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+ background-image: linear-gradient(to right, #a8caba 0%, #5d4157 100%);
 }
 
 #nav .item {
@@ -27,7 +27,7 @@ h1 {
 }
 
 #title {
-  padding: 5rem 0;
+  padding: 3rem 0;
 }
 
 #menubtn {
