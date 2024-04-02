@@ -14,7 +14,7 @@ header {
 }
 
 #head {
-  background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+  background: linear-gradient(112.6deg, rgb(56, 24, 40) -10.7%, rgb(23, 148, 185) 100.2%);
 }
 
 #nav .item {
